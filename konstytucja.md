@@ -4,8 +4,6 @@ My, Naród Polski - wszyscy obywatele Rzeczypospolitej, zarówno wierzący w Bog
 
 Propagujemy postawy integrujące: miłości, braterstwa i solidarności i szacunku dla godności człowieka.
 
-Językiem urzędowym w Rzeczypospolitej Polskiej jest język polski, stanowiący również bazę do translacji przepisów na formalny język Systemu Ochrony Konstytucji o którym mowa w paragrafie 5.3.
-
 # Rozdział I
 
 ## **Prawa i obowiązki podstawowe.**
@@ -32,7 +30,7 @@ Językiem urzędowym w Rzeczypospolitej Polskiej jest język polski, stanowiący
 
 6. Swoboda zrzeszania się. Obywatele mają prawo powoływać do życia różne organizacje życia społecznego, które pozwalają na lepsze współdziałanie. Jednak działalność tych organizacji nie może naruszać przyjętego systemu wartości.
 
-7. Zasada pomocniczości. Oznacza to, że wsparcie działań osób poprzez struktury państwa jest niezbędne dopiero w sytuacji, gdy te osoby nie mogą poradzić sobie samodzielnie. Interwencja państwa następuje wyłącznie po spełnieniu obiektywnych, mierzalnych kryteriów niemożności zaspokojenia potrzeb podstawowych (np. brak dochodu minimalnego, orzeczona trwała niezdolność do pracy), których katalog określa ustawa.
+7. Zasada pomocniczości. Oznacza to, że wsparcie działań osób poprzez struktury państwa jest niezbędne dopiero w sytuacji, gdy te osoby nie mogą poradzić sobie samodzielnie. Interwencja państwa następuje wyłącznie po spełnieniu obiektywnych, mierzalnych kryteriów niemożności zaspokojenia potrzeb podstawowych (np. brak dochodu minimalnego, orzeczona trwała niezdolność do pracy), których katalog określa ustawa o randze konstytucyjnej o ustroju gospodarczym
 
 8. Prawo własności. Poszanowanie prywatnej własności jest podstawą ustroju państwa. Własność ta jednak nie może być gromadzona i utrzymywana z naruszeniem praw innych obywateli.
 
@@ -79,6 +77,8 @@ Językiem urzędowym w Rzeczypospolitej Polskiej jest język polski, stanowiący
 # Rozdział III
 
 ## **Państwo prawa**
+
+3.0. Językiem urzędowym w Rzeczypospolitej Polskiej jest język polski, stanowiący również bazę do translacji przepisów na formalny język Systemu Ochrony Konstytucji o którym mowa w paragrafie 5.3.
 
 3.1. Rzeczpospolita Polska jest państwem prawa. Oznacza to, że:
 
@@ -209,7 +209,7 @@ Językiem urzędowym w Rzeczypospolitej Polskiej jest język polski, stanowiący
 * troski o pokój oraz poszanowanie praw osób i narodów;
 * powiązanie idei wolności i solidarności.
 
-4.12.4. Uznajemy integracje europejską jako wartość. Dlatego państwo powinno podejmować działania służące integracji Europy – o ile jest to zgodne z fundamentalnymi wartościami zawartymi w Konstytucji. Należy przeciwstawienie się redukowaniu wizji zjednoczonej Europy wyłącznie do jej aspektów ekonomicznych, politycznych oraz przed bezkrytycznemu stosunkowi do konsumpcyjnego modelu życia.
+4.12.4. Uznajemy integracje europejską jako wartość. Dlatego państwo powinno podejmować działania służące integracji Europy – o ile jest to zgodne z fundamentalnymi wartościami zawartymi w Konstytucji. Należy przeciwstawiać się redukowaniu wizji zjednoczonej Europy wyłącznie do jej aspektów ekonomicznych i politycznych oraz bezkrytycznemu stosunkowi do konsumpcyjnego modelu życia.
 
 **Stany nadzwyczajne**
 
@@ -261,7 +261,7 @@ Językiem urzędowym w Rzeczypospolitej Polskiej jest język polski, stanowiący
 
 6.2. Polska gospodarka jest zgodna z zasadami społecznej gospodarki rynkowej. Oznacza to, że zaspokojenie potrzeb społeczeństwa jest głównym celem gospodarki rozwijającej się w warunkach maksymalnej wolności. Odrzuca się zatem taką interpretację społecznej gospodarki rynkowej, że państwo opodatkowuje gospodarkę, aby mieć środki na niwelowanie niepożądanych jej efektów.
 
-6.2.1. Państwo jest odpowiedzialne za takie kształtowanie ładu gospodarczego, który dąży do zapewnienia wszystkim obywatelom powszechnego udziału w wypracowanym dobru wspólnym poprzez algorytmicznie waloryzowany dochód gwarantowany, pokrywający ściśle zdefiniowany ustawowo koszyk dóbr niezbędnych do przeżycia:
+6.2.1. Państwo jest odpowiedzialne za takie kształtowanie ładu gospodarczego, który dąży do zapewnienia wszystkim obywatelom powszechnego udziału w wypracowanym dobru wspólnym poprzez algorytmicznie waloryzowany dochód gwarantowany, pokrywający ściśle zdefiniowany ustawowo koszyk minimum egzystencji:
 
 a) daje wszystkim uczestnikom rynku równe szanse $brak dyskryminacji, stabilny i prosty system prawny$;
 
@@ -281,7 +281,7 @@ a) pomoc w powrocie do aktywności i przejęciu samodzielnej odpowiedzialności 
 
 b) niwelowanie nierówności dochodowych i majątkowych poprzez system podatkowy;
 
-c) zapewnienie godnego życia $takiego, które nie urąga ze względów ekonomicznych godności człowieka$ wszystkim obywatelom oraz dążenie do wprowadzenia minimalnego dochodu gwarantowanego, którego parametry (np. koszyk minimum egzystencji) określa ustawa o randze konstytucyjnej o ustroju gospodarczym.
+c) zapewnienie godnego życia takiego, które nie urąga ze względów ekonomicznych godności człowieka wszystkim obywatelom oraz dążenie do wprowadzenia minimalnego dochodu gwarantowanego, którego parametry (np. koszyk minimum egzystencji) określa ustawa o randze konstytucyjnej o ustroju gospodarczym.
 
 6.3. Opodatkowanie działalności gospodarczej jest sposobem zapłaty za korzyści jakie daje jej prowadzenie w danej lokalizacji.
 
@@ -297,7 +297,7 @@ c) zapewnienie godnego życia $takiego, które nie urąga ze względów ekonomic
 
 6.5.1. Państwo przeciwdziała podporządkowaniu dobra osób strukturom ekonomicznym $ekonomizm$.
 
-6.5.2. W okresie przejściowym dopuszcza się funkcjonowanie państwowych systemów zasiłków i dotacji. Docelowo należy zamienić je na udział w systemie wymiany dóbr oraz udziały w przychodach podatkowych o których mowa w punkcie 6.3.
+6.5.2. W okresie przejściowym dopuszcza się funkcjonowanie państwowych systemów zasiłków i dotacji. Docelowo należy zamienić je na udział w systemie wymiany dóbr oraz udziały w przychodach podatkowych o których mowa w art. 6.3 niniejszej Konstytucji.
 
 # Rozdział VII
 
@@ -334,3 +334,5 @@ c) zapewnienie godnego życia $takiego, które nie urąga ze względów ekonomic
 ## **Przepisy przejściowe**
 
 9.1. Do czasu uchwalenia nowych ustaw o randze konstytucyjnej przewidzianych w niniejszej Konstytucji, dotychczasowe regulacje ustawowe zachowują moc obowiązującą, o ile System Ochrony Konstytucji nie wykaże ich jawnej sprzeczności z prawami podstawowymi. Terminy dostosowawcze określą odrębne ustawy.
+
+9.2: „Organy władzy powołane na podstawie dotychczasowych przepisów zachowują uprawnienia do czasu ukonstytuowania organów przewidzianych niniejszą Konstytucją, nie dłużej jednak niż cztery lata od jej wejścia w życie."
